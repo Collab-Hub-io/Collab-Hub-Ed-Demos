@@ -46,7 +46,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 377.5, 586.0, 24.0, 24.0 ]
+					"patching_rect" : [ 377.5, 560.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -410,15 +410,15 @@
 			}
 , 			{
 				"box" : 				{
-					"channels" : 2,
+					"channels" : 1,
 					"id" : "obj-19",
-					"lastchannelcount" : 2,
+					"lastchannelcount" : 1,
 					"maxclass" : "mc.live.gain~",
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "multichannelsignal", "", "float", "list" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 25.0, 419.0, 48.0, 136.0 ],
+					"patching_rect" : [ 25.25, 399.5, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "mc.live.gain~",
@@ -552,7 +552,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 25.0, 370.0, 66.0, 22.0 ],
+					"patching_rect" : [ 25.25, 366.0, 66.0, 22.0 ],
 					"text" : "cycle~ 400"
 				}
 
@@ -602,7 +602,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-17", 0 ],
-					"midpoints" : [ 34.5, 568.0, 347.0, 568.0, 347.0, 378.0, 439.5, 378.0 ],
+					"midpoints" : [ 34.75, 568.0, 347.0, 568.0, 347.0, 378.0, 439.5, 378.0 ],
 					"order" : 0,
 					"source" : [ "obj-19", 0 ]
 				}
@@ -619,6 +619,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-63", 1 ],
+					"midpoints" : [ 34.75, 604.0, 423.0, 604.0 ],
 					"order" : 1,
 					"source" : [ "obj-19", 0 ]
 				}
@@ -627,6 +628,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-63", 0 ],
+					"midpoints" : [ 34.75, 604.0, 387.0, 604.0 ],
 					"order" : 2,
 					"source" : [ "obj-19", 0 ]
 				}
