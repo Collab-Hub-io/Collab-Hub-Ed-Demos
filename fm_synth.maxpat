@@ -3,8 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 1,
-			"revision" : 11,
+			"minor" : 2,
+			"revision" : 0,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -12,7 +12,7 @@
 		"classnamespace" : "box",
 		"rect" : [ 84.0, 83.0, 963.0, 750.0 ],
 		"bglocked" : 1,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -90,6 +90,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-190",
+					"ignoreclick" : 1,
 					"items" : "User000",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -99,7 +100,7 @@
 					"patching_rect" : [ 2231.0, 660.666655302047729, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 522.0, 140.666655302047729, 100.0, 22.0 ],
-					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
+					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
 				}
 
 			}
@@ -142,6 +143,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-186",
+					"ignoreclick" : 1,
 					"items" : "User000",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -151,7 +153,7 @@
 					"patching_rect" : [ 2019.0, 660.666655302047729, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 413.0, 140.666655302047729, 100.0, 22.0 ],
-					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
+					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
 				}
 
 			}
@@ -194,6 +196,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-182",
+					"ignoreclick" : 1,
 					"items" : "User000",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -203,7 +206,7 @@
 					"patching_rect" : [ 2234.0, 435.666655302047729, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 270.0, 140.666655302047729, 100.0, 22.0 ],
-					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
+					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
 				}
 
 			}
@@ -218,8 +221,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 0,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -414,8 +417,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 0,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -610,8 +613,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 0,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -806,8 +809,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 0,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1002,8 +1005,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 0,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1250,6 +1253,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-142",
+					"ignoreclick" : 1,
 					"items" : "User000",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -1259,7 +1263,7 @@
 					"patching_rect" : [ 2019.0, 435.666655302047729, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 159.0, 140.666655302047729, 100.0, 22.0 ],
-					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
+					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
 				}
 
 			}
@@ -1784,7 +1788,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1309.0, 495.666655302047729, 18.0, 50.0 ],
 					"size" : 3,
-					"value" : 2
+					"value" : 1
 				}
 
 			}
@@ -1827,6 +1831,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-84",
+					"ignoreclick" : 1,
 					"items" : "User000",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -1836,7 +1841,7 @@
 					"patching_rect" : [ 1805.0, 435.666655302047729, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 25.0, 140.666655302047729, 100.0, 22.0 ],
-					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
+					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
 				}
 
 			}
@@ -2119,6 +2124,7 @@
 			}
 , 			{
 				"box" : 				{
+					"bgcolor" : [ 0.2, 0.2, 0.2, 1.0 ],
 					"format" : 6,
 					"id" : "obj-30",
 					"maxclass" : "flonum",
@@ -3424,8 +3430,8 @@
 		"styles" : [ 			{
 				"name" : "newobj001",
 				"default" : 				{
-					"fontsize" : [ 10.0 ],
-					"fontname" : [ "Arial Bold" ]
+					"fontname" : [ "Arial Bold" ],
+					"fontsize" : [ 10.0 ]
 				}
 ,
 				"parentstyle" : "",
