@@ -52,15 +52,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-186",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 262.833340406417847, 640.0, 180.0, 22.0 ],
+					"patching_rect" : [ 262.833340406417847, 640.0, 183.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 5.583333551883698, 91.0, 79.0, 22.0 ],
+					"presentation_rect" : [ 5.583333551883698, 91.0, 81.0, 23.0 ],
 					"text" : "Start/Stop",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -68,15 +68,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 11.0,
 					"id" : "obj-185",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 277.833340406417847, 655.0, 150.0, 19.0 ],
+					"patching_rect" : [ 277.833340406417847, 655.0, 151.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 171.000002384185791, 200.666662514209747, 34.0, 19.0 ],
+					"presentation_rect" : [ 171.000002384185791, 200.666662514209747, 34.0, 20.0 ],
 					"text" : "Kick",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -84,15 +84,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 11.0,
 					"id" : "obj-184",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 262.833340406417847, 640.0, 151.0, 19.0 ],
+					"patching_rect" : [ 262.833340406417847, 640.0, 147.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 117.166639089584351, 200.666662514209747, 33.0, 19.0 ],
+					"presentation_rect" : [ 117.166639089584351, 200.666662514209747, 32.0, 20.0 ],
 					"text" : "Clap",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -100,15 +100,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 11.0,
 					"id" : "obj-183",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 247.833340406417847, 625.0, 149.0, 19.0 ],
+					"patching_rect" : [ 247.833340406417847, 625.0, 142.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 65.833338022232056, 200.666662514209747, 41.0, 19.0 ],
+					"presentation_rect" : [ 65.833338022232056, 200.666662514209747, 39.0, 20.0 ],
 					"text" : "Snare",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -116,15 +116,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 11.0,
 					"id" : "obj-182",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 262.833340406417847, 640.0, 148.0, 19.0 ],
+					"patching_rect" : [ 262.833340406417847, 640.0, 145.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 9.333333611488342, 200.666662514209747, 46.500004410743713, 19.0 ],
+					"presentation_rect" : [ 9.333333611488342, 200.666662514209747, 46.0, 20.0 ],
 					"text" : "Cymbal",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -132,15 +132,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-181",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 232.833340406417847, 610.0, 180.0, 22.0 ],
+					"patching_rect" : [ 232.833340406417847, 610.0, 185.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 15.333333611488342, 171.833330571651459, 145.0, 22.0 ],
+					"presentation_rect" : [ 15.333333611488342, 171.833330571651459, 140.0, 23.0 ],
 					"text" : "Mixer",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -154,7 +154,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 642.000006318092346, 507.333344697952271, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 13.333333611488342, 171.833330571651459, 149.0, 26.833331942558289 ]
+					"presentation_rect" : [ 13.333333611488342, 171.833330571651459, 191.666668772697449, 26.833331942558289 ]
 				}
 
 			}
@@ -4117,15 +4117,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-317",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 262.833340406417847, 640.0, 180.0, 22.0 ],
+					"patching_rect" : [ 262.833340406417847, 640.0, 181.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 241.000004768371582, 305.666662514209747, 40.0, 22.0 ],
+					"presentation_rect" : [ 241.000004768371582, 305.666662514209747, 40.0, 23.0 ],
 					"text" : "Kick",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -4133,15 +4133,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-316",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 247.833340406417847, 625.0, 180.0, 22.0 ],
+					"patching_rect" : [ 247.833340406417847, 625.0, 176.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 241.000004768371582, 266.166662514209747, 79.0, 22.0 ],
+					"presentation_rect" : [ 241.000004768371582, 266.166662514209747, 77.0, 23.0 ],
 					"text" : "Clap",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -4149,15 +4149,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-315",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 247.833340406417847, 625.0, 180.0, 22.0 ],
+					"patching_rect" : [ 247.833340406417847, 625.0, 174.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 241.000004768371582, 183.166662514209747, 79.0, 22.0 ],
+					"presentation_rect" : [ 241.000004768371582, 183.166662514209747, 77.0, 23.0 ],
 					"text" : "Cymbal",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -4165,15 +4165,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-314",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 232.833340406417847, 610.0, 180.0, 22.0 ],
+					"patching_rect" : [ 232.833340406417847, 610.0, 169.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 241.000004768371582, 224.166662514209747, 79.0, 22.0 ],
+					"presentation_rect" : [ 241.000004768371582, 224.166662514209747, 74.0, 23.0 ],
 					"text" : "Snare",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -4422,14 +4422,15 @@
 , 			{
 				"box" : 				{
 					"attr" : "tempo",
+					"fontname" : "Lato",
 					"id" : "obj-79",
 					"maxclass" : "attrui",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 720.5, 19.5, 150.0, 22.0 ],
+					"patching_rect" : [ 720.5, 19.5, 151.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 103.000004768371582, 118.5, 147.0, 22.0 ]
+					"presentation_rect" : [ 103.000004768371582, 118.5, 147.0, 23.0 ]
 				}
 
 			}
@@ -5517,15 +5518,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 18.0,
 					"id" : "obj-38",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 247.833340406417847, 625.0, 230.0, 27.0 ],
+					"patching_rect" : [ 247.833340406417847, 625.0, 221.0, 28.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 8.0, 8.916665971279144, 415.0, 27.0 ],
+					"presentation_rect" : [ 8.0, 8.916665971279144, 398.0, 28.0 ],
 					"text" : "Sequencer",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -5665,15 +5666,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-1",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 217.833340406417847, 595.0, 176.0, 22.0 ],
+					"patching_rect" : [ 217.833340406417847, 595.0, 174.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 299.833338022232056, 61.666668117046356, 104.0, 22.0 ],
+					"presentation_rect" : [ 299.833338022232056, 61.666668117046356, 103.0, 23.0 ],
 					"text" : "Current Step",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -5693,15 +5694,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-71",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 217.833340406417847, 595.0, 180.0, 22.0 ],
+					"patching_rect" : [ 217.833340406417847, 595.0, 179.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 13.333333611488342, 63.083331346511841, 137.0, 22.0 ],
+					"presentation_rect" : [ 13.333333611488342, 63.083331346511841, 136.0, 23.0 ],
 					"text" : "Transport Controls",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
@@ -5709,15 +5710,15 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial",
+					"fontname" : "Lato",
 					"fontsize" : 14.0,
 					"id" : "obj-69",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 202.833340406417847, 580.0, 176.0, 22.0 ],
+					"patching_rect" : [ 202.833340406417847, 580.0, 169.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 299.833338022232056, 139.666668117046356, 164.0, 22.0 ],
+					"presentation_rect" : [ 299.833338022232056, 139.666668117046356, 158.0, 23.0 ],
 					"text" : "Toggle Steps per Loop",
 					"textcolor" : [ 1.0, 0.976470588235294, 0.976470588235294, 1.0 ]
 				}
