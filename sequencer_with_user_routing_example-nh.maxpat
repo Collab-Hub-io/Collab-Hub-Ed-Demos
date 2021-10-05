@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 50.0, 68.0, 1337.0, 884.0 ],
+		"rect" : [ 50.0, 68.0, 841.0, 884.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -274,7 +274,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 62.0, 653.915254000000004, 18.0, 50.0 ],
 					"size" : 3,
-					"value" : 0
+					"value" : 2
 				}
 
 			}
@@ -341,8 +341,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-218",
-					"ignoreclick" : 1,
-					"items" : [ "NickTest4", ",", "User000" ],
+					"items" : [ "NickTest4", ",", "User002" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -351,7 +350,7 @@
 					"patching_rect" : [ 2565.500006318092346, 174.0, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 326.0, 581.666662514209747, 100.0, 22.0 ],
-					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
+					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
 				}
 
 			}
@@ -394,8 +393,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-209",
-					"ignoreclick" : 1,
-					"items" : [ "NickTest4", ",", "User000" ],
+					"items" : [ "NickTest4", ",", "User002" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -404,7 +402,7 @@
 					"patching_rect" : [ 2352.000006318092346, 174.0, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 326.0, 542.166662514209747, 100.0, 22.0 ],
-					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
+					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
 				}
 
 			}
@@ -447,8 +445,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-205",
-					"ignoreclick" : 1,
-					"items" : [ "NickTest4", ",", "User000" ],
+					"items" : [ "NickTest4", ",", "User002" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -457,7 +454,7 @@
 					"patching_rect" : [ 2143.000006318092346, 174.0, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 326.0, 500.166662514209747, 100.0, 22.0 ],
-					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
+					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
 				}
 
 			}
@@ -544,8 +541,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-195",
-					"ignoreclick" : 1,
-					"items" : [ "NickTest4", ",", "User000" ],
+					"items" : [ "NickTest4", ",", "User002" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -554,7 +550,7 @@
 					"patching_rect" : [ 1931.0, 174.0, 100.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 326.0, 459.166662514209747, 100.0, 22.0 ],
-					"textcolor" : [ 0.529, 0.529, 0.529, 1.0 ]
+					"textcolor" : [ 1.0, 0.996, 0.996, 1.0 ]
 				}
 
 			}
@@ -9194,8 +9190,8 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "CH-Client.maxpat",
-				"bootpath" : "~/Downloads/WAC2021-Collab-Hub-Workshop-main/Collab-Hub-Max-Client-v0.3/bpatchers",
-				"patcherrelativepath" : "../../Downloads/WAC2021-Collab-Hub-Workshop-main/Collab-Hub-Max-Client-v0.3/bpatchers",
+				"bootpath" : "~/GitHub/Collab-Hub-Client-SH/bpatchers",
+				"patcherrelativepath" : "../Collab-Hub-Client-SH/bpatchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
